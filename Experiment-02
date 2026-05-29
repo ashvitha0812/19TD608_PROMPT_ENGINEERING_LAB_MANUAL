@@ -1,1 +1,54 @@
 
+EVALUATION OF 2024 PROMPTING TOOLS ACROSS DIVERSE AI PLATFORMS
+
+AIM
+
+To compare the performance of AI platforms using refined prompting techniques.
+
+OBJECTIVE
+
+* To test multiple prompting methods.
+* To compare outputs across AI models.
+* To evaluate quality, depth, and accuracy.
+
+AI PLATFORMS TESTED
+
+| Platform       | Specialty                    |
+| -------------- | ---------------------------- |
+| ChatGPT        | Conversational AI            |
+| Claude         | Long-context reasoning       |
+| Gemini (Bard)  | Google ecosystem integration |
+| Cohere Command | Enterprise NLP               |
+| Meta AI        | Open-source LLM ecosystem    |
+
+PROMPTING TECHNIQUES USED
+
+1. Zero-shot prompting
+2. Few-shot prompting
+3. Chain-of-thought prompting
+4. Role prompting
+5. Context-aware prompting
+
+TEST SCENARIOS
+
+* Essay generation
+* Coding tasks
+* Summarization
+* Mathematical reasoning
+* Creative writing
+
+OBSERVATIONS
+
+| AI Tool | Accuracy  | Creativity | Reasoning |
+| ------- | --------- | ---------- | --------- |
+| ChatGPT | High      | High       | Excellent |
+| Claude  | Very High | Medium     | Excellent |
+| Gemini  | High      | Medium     | Good      |
+| Cohere  | Medium    | Medium     | Good      |
+| Meta AI | Medium    | High       | Medium    |
+
+RESULT
+
+Different prompting styles significantly affected output quality across platforms.
+
+
