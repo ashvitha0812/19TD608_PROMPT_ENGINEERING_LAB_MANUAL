@@ -1,1 +1,44 @@
+SCENARIO-BASED REPORT DEVELOPMENT UTILIZING DIVERSE PROMPTING TECHNIQUES – CASE STUDY 1
+
+AIM
+
+To develop reports using straightforward prompts, tabular prompts, and preceding question prompts.
+
+SELECTED SCENARIO
+
+Designing an AI-Powered Customer Support Chatbot.
+
+PROMPTING METHODS USED
+
+1. Straightforward Prompt
+2. Tabular Format Prompting
+3. Preceding Question Prompting
+
+SAMPLE PROMPTS
+
+Straightforward Prompt
+
+“Design an AI chatbot for customer support with features and advantages.”
+
+Tabular Prompt
+
+| Feature    | Description                 |
+| ---------- | --------------------------- |
+| NLP        | Understand customer queries |
+| Automation | Automatic responses         |
+
+Preceding Question Prompt
+
+“What problems do customers face in support systems? How can AI solve them?”
+
+ANALYSIS
+
+* Straightforward prompts gave direct answers.
+* Tabular prompts improved structure.
+* Preceding questions improved reasoning depth.
+
+RESULT
+
+Prompt structure strongly influenced response quality and organization.
+
 
